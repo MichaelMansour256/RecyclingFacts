@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycling Facts</string>
+    <string name="recycling_facts_activity_title">Recycling Facts</string>
+    <string name="recycling_facts_activity_content">Using Recycled Paper Saves Water,Not Just Trees</string>
+    <string name="recycling_facts_activity_button">Give me more</string>
+    <string name="fact1">95% of the world s information is still stored on paper and most of it is not seen again</string>
+    <string name="fact2">Recycling a plastic bucket provides enough power to light a 60-watt lamp for 6 hours</string>
+    <string name="fact3">Thousands of marine creatures die because they swallow plastic bags that resemble jellyfish</string>
+    <string name="fact4">Every year the Americans throw bottles and bottles enough to reach the moon and return to it 20 times</string>
+    <string name="fact5">Recycling a ton of plastic can save about 2,000 gallons of gasoline</string>
+    <string name="fact6">Beginning in 2015 all New Yorkers have to recycle electronic devices or face a fine of 100 dollars</string>
+    <string name="fact7">Recycle the aluminum box can provide enough power to operate a two-hour television</string>
+    <string name="fact8">Recycle a ton of paper keeps 17 trees</string>
+    <string name="fact9">Recycling the aluminum box can bring it back to the store shelf within 60 days</string>
+    <string name="fact10">Using Recycled Paper Saves Water,Not Just Trees</string>
+    <string-array name="facts">
+        <item>@string/fact1</item>
+        <item>@string/fact2</item>
+        <item>@string/fact3</item>
+        <item>@string/fact4</item>
+        <item>@string/fact5</item>
+        <item>@string/fact6</item>
+        <item>@string/fact7</item>
+        <item>@string/fact8</item>
+        <item>@string/fact9</item>
+        <item>@string/fact10</item>
+
+    </string-array>
+
+</resources>
